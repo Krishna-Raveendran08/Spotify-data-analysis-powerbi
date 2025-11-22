@@ -1,4 +1,3 @@
-# Spotify-data-analysis-powerbi
 # 🎵 Spotify Music Data Analysis — Power BI Dashboard
 
 This repository contains a Power BI dashboard analyzing trends across Spotify’s music dataset.  
@@ -90,5 +89,4 @@ Data Analyst
 LinkedIn: https://www.linkedin.com/in/krishna-ravi08  
 Email: krishnaraveendran08@gmail.com
 
-## 📁 Project Structure
 
