@@ -63,7 +63,9 @@ It is designed to help users explore how features like **danceability, energy, t
 - **Data Visualization**  
 - **Exploratory Data Analysis**
 
----## 🔧 How to Use
+---
+
+## 🔧 How to Use
 
 1. Clone or download this repository.  
 2. Open `Spotify.pbix` in **Power BI Desktop**.  
