@@ -34,7 +34,7 @@ It is designed to help users explore how features like **danceability, energy, t
 
 ## 📌 Features
 
-### ✔ Visualizations
+###  Visualizations
 - KPI cards for top artists & popular genres  
 - Scatter plots showing feature correlations  
 - Box plots for audio feature distribution  
@@ -42,12 +42,12 @@ It is designed to help users explore how features like **danceability, energy, t
 - Genre-wise bar comparisons  
 - Drill-through pages for track-level insights  
 
-### ✔ Data Model
+###  Data Model
 - Clean audio features dataset  
 - Derived columns for structured analysis  
 - Relationship modeling (if applied)
 
-### ✔ Advanced DAX Measures (Examples)
+###  Advanced DAX Measures (Examples)
 - Average Popularity  
 - Feature Distribution Metrics  
 - Genre-Level Aggregations  
