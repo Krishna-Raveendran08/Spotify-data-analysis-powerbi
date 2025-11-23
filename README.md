@@ -72,6 +72,10 @@ It is designed to help users explore how features like **danceability, energy, t
 3. Explore the dashboard’s interactive filters and visuals.
 
 ---
+## Dashboard Screenshots
+
+
+
 
 ## 🎯 Purpose of This Project
 
