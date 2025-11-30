@@ -75,7 +75,11 @@ It is designed to help users explore how features like **danceability, energy, t
 ## Dashboard Screenshots
 
 ![Overview](overview.png)
+
+
 ![Listening Patterns](Listening%20patterns.png)
+
+
 ![Details](Details.png)
 
 
