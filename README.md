@@ -75,6 +75,9 @@ It is designed to help users explore how features like **danceability, energy, t
 ## Dashboard Screenshots
 
 ![Overview](overview.png)
+![Listening Patterns](listening%20patterns.png)
+![Details](details.png)
+
 
 
 ## 🎯 Purpose of This Project
